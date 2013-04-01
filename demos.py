@@ -1,4 +1,4 @@
-# coding: utf-8
+# coding: utf-8 foo
 
 import webapp2, random, json, string
 
